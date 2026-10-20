@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: MSB-GP - multi-kernel sparse genomic prediction
+version: 1.0.0
+authors:
+  - family-names: MSB-GP developers
+date-released: "2026-10-08"
+abstract: MSB-GP is a multi-kernel sparse genomic prediction model with adaptive kernel weighting and leakage-free output calibration.
